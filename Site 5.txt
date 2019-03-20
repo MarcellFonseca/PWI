@@ -1,0 +1,56 @@
+<!DOCTYPE htmt>
+<html>  
+<head> 
+        <meta charset="UTF-8">
+            <title>Exemplo</title>	
+</head>			
+<body> 
+    <table border="0" width="100%" cellspacing="20" bgcolor="#C6E2FF">
+        <tr>		  
+		    <th colspan="2" bgcolor="#9FB6CD">
+			     <h1>Guerra Fria</h1>
+		  	 </th>				
+		</tr>
+		<tr>	
+			<th bgcolor="#9FB6CD"><img src="KM.jpg" width="450" height="315">
+			<img src="FE.jpg" width="450" height="315">
+			</th>
+			<th align="justify">
+				<h2>O MUNDO DIVIDIDO EM DOIS</h2>	
+			    <p>Em meados do seculo XIX, quando o movimento operário começava a ganhar força, Karl Marx e Friedrich Engels anunciaram a chegada do fantasma do comunismo para assombrar as nações da Europa. Com isso, os dois pensadores e militantes do socialismo queriam dizer que, em pouco tempo, os trabalhadores organizados estariam varrendo do continente a sociedade burguesa e a ordem capitalista, implantando um mundo justo, solidário e fraterno. Sem ganâncias ou arrogâncias. </p>
+				<p>O "fantasma" apareceu, de fato, na revolução bolchevique de 1917, na Rússia. Sobre os escombros do velho império czarista - irremediavelmente abalado durante a Primeira Guerra Mundial - os revolucionários russos fundaram a União Soviética e começaram a construir o primeiro Estado e a primeira sociedade comunista da história contemporânea.</p>
+				<p>Aquele era um acontecimento intolerável para os governos dos países capitalistas. A vitória do socialismo na Rússia abria um precedente perigoso, que colocava em risco a ordem de exploradores e explorados, que eles se esforçavam por manter. Logo países como a Grã-Bretanha e os Estados Unidos declararam guerra ao novo Estado, enviando contingentes armados para tentar sufocar já no berço a revolução bolchevique. Não conseguiram e, precocemente, tornaram-se inimigos declarados dos soviéticos.</p>
+				<p>Karl Marx (1818–1883) foi um filósofo e revolucionário socialista alemão. Criou as bases da doutrina comunista, onde criticou o capitalismo. Sua filosofia exerceu influência em várias áreas do conhecimento, tais como Sociologia, Política, Direito e Economia.</p>
+		    </th>
+		</tr>
+		<tr>
+	        <th bgcolor="#9FB6CD"><img src="JF.jpg" width="450" height="300">
+			 <img src="WC.png" width="450" height="300">
+			</th>	
+		   <th colspan="2" align="justify">
+		        <p>Desde essa época, um permanente clima de hostilidade e desconfiança marcaria as relações entre norte-americanos e britânicos, de um lado, e soviéticos, de outro; parecia não haver um único ponto de concordância entre eles. Só uma situação muito excepcional poderia proporcionar algum tipo de aproximação entre adversários tão ferrenhos.</p>
+				<p>Foi uma situação assim que se apresentou no início dos anos 40. Em plena Segunda Guerra Mundial (1939-1945), Josef Stalin, Winston Churchill e Franklin Roosevelt - representando, respectivamente, os governos da União Soviética, da Grã-bretanha e dos Estados Unidos - encontraram-se em Teerã, capital do Irã, para anunciar ao mundo sua união com o objetivo de derrotar aquele que consideravam seu inimigo comum, as forças do Eixo: Alemanha, Itália e Japão. Era a primeira vez que os líderes daqueles três países se encontravam numa reunião de cúpula.</p>
+				<p>Como era de se esperar, um clima de grande expectativa cercava o que se tornou conhecido como o encontro dos Três Grandes. Aquela união era sobretudo de caráter militar: destinava-se a combater as potências do Eixo, que tinham como objetivo declarado estender seu domínio a todas as nações do planeta, impondo um regime totalitário e racista. Isso não significava que as antigas divergências tivessem sido esquecidas pelos agora denominados Aliados. Churchill e Roosevelt continuavam a defender intransigentemente o capitalismo, da mesma maneira que Stalin o fazia em relação ao socialismo.</p>
+				<p>O então primeiro-ministro do Reino Unido, Winston Churchill, e o presidente dos Estados Unidos na época, Franklin D. Roosevelt, já haviam se encontrado no Cairo para falar sobre a Segunda Guerra Mundial e fazer planos para o futuro da Europa, da Turquia e do Extremo Oriente.
+Antes de tentarem em vão a adesão da Turquia à aliança ocidental contra a Alemanha nazista e de nomearem Dwight D. Eisenhower como comandante supremo da iminente invasão da Normandia, os dois deixaram a cidade às margens do Nilo e viajaram para Teerã. Lá, em 28 de novembro de 1943, eles haviam marcado um encontro de três dias com o presidente da União das Repúblicas Socialistas Soviéticas (URSS), Josef Stalin.</p>
+			</th>
+		</tr>
+		<tr>
+		    <th align="justify" valign="top">
+				<h2>KGB<h3>(Komitet Gosudarstvennoi Bezopasnosti)</h3></h2>	
+				<p>O KGB era a principal agência secreta de informações e segurança da antiga União Soviética. Este desempenhava as funções de polícia secreta do governo soviético, entre 13 de março de 1954 á 6 de novembro de 1991. KGB eram as iniciais, em russo, do Comitê de Segurança do Estado, a antiga agência de espionagem da União Soviética. Além dos serviços de espionagem, a KGB também fazia o papel de polícia política, ou seja, reprimia qualquer tentativa de oposição ao governo soviético (o mesmo papel que a Gestapo, a polícia política de Hitler fazia na Alemanha nazista), e impedia a saída de informações secretas do país ou interceptar missões e agentes não autorizados no território nacional. Durante a Guerra Fria dasemenhou o importante papel de preservar União Soviética politicamente, e na corrida armamentista da época.
+Antes de consolidar-se com este nome, a KGB (Komitet Gosudarstvenno Bezopasnosti) teve outros nomes, como por exemplo, Tcheka, GPU, NKVD e assim foi mudando de nome até chegar ao atual KGB. Além da espionagem internacional, ela também era responsável pela investigação de crimes internos cometidos contra o Governo.
+</p>
+				<h2>C.I.A<h3>(Central Intelligence Agency)</h3></h2>	
+				<p>CIA é a sigla de Central Intelligence Agency (Agência Central de Inteligência), a agência de espionagem do governo dos Estados Unidos. A agência foi criada em 1947 pelo Presidente Harry S. Truma pora necessidade estratégica devido ao início da Guerra Fria e ao avanço do comunismo, além do roubo de projetos tecnológicos durante a corrida armamentista que estava ocorrendo na época.
+Cabe à CIA contribuir efetivamente com a comunidadede todo o mundo de formações e inteligencia, administrando serviços de interesse comum, análise de imagens, recolha e processamento de dados de forma participativa com outras agências de inteligência e nas áreas de pesquisa e desenvolvimento e tecnologia. A CIA pode fornecer apoio aos usuários de inteligência, e, quando necessário, e intervir as condições sociais das nações envolvidas de maneira a aumentar a proteção à Segurança Nacional dos Estados Unidos e seus interesses.</p>
+				
+			</th>
+			<th bgcolor="#9FB6CD">	         
+	            <img src="KGB.jpg" width="450" height="315"> 
+				<img src="CIA.png" width="450" height="315"> 
+			</th>
+		</tr>	
+   	</table>	   
+</body>
+</html>	
